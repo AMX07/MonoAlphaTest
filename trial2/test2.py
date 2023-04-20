@@ -81,7 +81,7 @@ while 1:
 
     # If the loop was stopped due to the time constraint, print the final result
     if elapsed_time > 20:
-        print(final_decrypted_text)
+        #print(final_decrypted_text)
         #for pos in space_positions:
         #    final_decrypted_text = final_decrypted_text[:pos] + ' ' + final_decrypted_text[pos:]
         # Add special characters back into the final decrypted text
